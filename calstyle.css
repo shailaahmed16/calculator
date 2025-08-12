@@ -58,6 +58,12 @@ button:active{
     background: translate(2px,2px);
     font-size: 700;
 }
+.calculator {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+}
 #eqBtn{
     background: orangered;
+
 }
