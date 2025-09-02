@@ -13,12 +13,6 @@ body{
     align-items: center;
     background: linear-gradient(45deg, #0a0a0a, #fc0d0d);
 }
-.calculator{
-    padding: 150x;
-    box-shadow: 0 0 15px #000;
-    border: 2px solid #ee2165 rgb(166.114,114);
-    border-radius: 15px;
-}
 .display input{
     width: 360px;
     border: none;
@@ -67,3 +61,4 @@ button:active{
     background: orangered;
 
 }
+
